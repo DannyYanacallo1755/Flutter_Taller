@@ -1,6 +1,13 @@
-# flutter_application_1
+# Taller calificado flutter
 
-A new Flutter project.
+Desarrollar el taller:
+
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=es-419#0
+
+Entregables:
+
+Captura del badge.
+Repositorio github con la apk generada.
 
 ## Getting Started
 
@@ -14,3 +21,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Captura del badge
+<p align="center">
+<img src="/images/Taller.png" alt="Imagen 3" width="500"/>
+</p>
+
+## APK
+
